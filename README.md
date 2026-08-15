@@ -1,7 +1,7 @@
-Trabalho Pr�tico - API Helpdesk
+Trabalho Prático - API Helpdesk
 Aluno: [Bernardo Garajau Silva]
 
-Como rodar a aplica��o:
+Como rodar a aplição:
 
 1. Instalar o Flask e o SQLAlchemy:
 pip install flask flask_sqlalchemy
@@ -9,7 +9,7 @@ pip install flask flask_sqlalchemy
 2. Executar o projeto:
 python app.py
 
-A API vai rodar em http://127.0.0.1:5000/ e o banco de dados (helpdesk.db) � criado sozinho na raiz.
+A API vai rodar em http://127.0.0.1:5000/ e o banco de dados (helpdesk.db) é criado sozinho na raiz.
 
 Rotas do sistema:
 
