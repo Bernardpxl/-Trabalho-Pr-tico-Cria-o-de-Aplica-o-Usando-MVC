@@ -1,5 +1,5 @@
 Trabalho Pr�tico - API Helpdesk
-Aluno: [Seu Nome]
+Aluno: [Bernardo Garajau Silva]
 
 Como rodar a aplica��o:
 
